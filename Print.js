@@ -150,3 +150,4 @@ MyPlugin.install = function (Vue, options) {
   Vue.prototype.$print = Print
 }
 export default MyPlugin
+//this is my project,don't copy it 100!!!
